@@ -1,0 +1,6 @@
+BeautifulSoup4
+scrapy
+setuptools
+sqlalchemy
+pymongo
+pillow
